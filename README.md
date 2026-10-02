@@ -1,6 +1,6 @@
 # Breaking the Structural Identity: Personalized Federated LoRA Fine-tuning under Rank Heterogeneity
 
-**Accepted by EMNLP 2026**
+**Accepted by Findings of EMNLP 2026**
 
 **Authors:** Lei Wang*, Jieming Bian*, Letian Zhang, Jie Xu  
 (*Equal contribution)
@@ -78,7 +78,7 @@ If you use this code in your research, please cite:
 @inproceedings{wang2026fedrora,
   title={Breaking the Structural Identity: Personalized Federated LoRA Fine-tuning under Rank Heterogeneity},
   author={Wang, Lei and Bian, Jieming and Zhang, Letian and Xu, Jie},
-  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2026},
   year={2026}
 }
 ```
