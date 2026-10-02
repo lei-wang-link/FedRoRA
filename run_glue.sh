@@ -7,5 +7,3 @@ for TASK in mnli qnli sst2 qqp; do
         python main_glue.py --task ${TASK} --alpha 0.5 --seed ${SEED}
     done
 done
-
-python summarize.py

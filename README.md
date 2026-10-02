@@ -63,7 +63,6 @@ FedRoRA/
 ├── fedrora.py           # LoRA layer, client training, server aggregation
 ├── data.py              # Non-IID data partitioning
 ├── config.py            # Hyperparameter configuration
-├── summarize.py         # Average results over seeds
 ├── run_glue.sh          # Example run script
 ├── requirements.txt     # Python dependencies
 ├── LICENSE              # MIT License
