@@ -1,5 +1,5 @@
 """
-config.py — Configuration of the GLUE (NLU) experiments.
+config.py — Configuration of the GLUE experiments.
 
 Values below are the settings used in the paper. main_glue.py fills in the
 task-dependent fields (TASK, SEED, GLOBAL_ROUNDS, OUTPUT_ROOT) from the command line.
